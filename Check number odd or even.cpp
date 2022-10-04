@@ -19,7 +19,7 @@ int main()
     }
     else
     {
-        cout<<"This is a even number.";
+        cout<<"This is a not prime number.";
     }
     return 0;
 }
